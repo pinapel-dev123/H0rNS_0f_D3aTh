@@ -24,7 +24,8 @@ Since Linux operates based on permissions rather than file extensions, this file
 
 2. **run da kaboom**
    ```bash
-    sh H0rN$_0f_D3aTh
+   sh H0rN$_0f_D3aTh
+   ```
 
 ---
 
