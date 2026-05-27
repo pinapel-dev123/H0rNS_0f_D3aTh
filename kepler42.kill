@@ -14,6 +14,20 @@ elif [ "$kaboomkaboom" == "y" ]; then
     no_hidez
     touch kepler42.kill kepler42.kill kepler42.kill kepler42.kill kepler42.kill kepler42.kill kepler42.kill kepler42.kill kepler42.kill kepler42.kill kepler42.kill kepler42.kill kepler42.kill kepler42.kill kepler42.kill kepler42.kill kepler42.kill kepler42.kill kepler42.kill kepler42.kill 
     ls -lh
+    ls -l
+    ls -asdfghjk
+    grep
+    find / 👋 
+    find
+    grep --help
+    grep 12358
+    find --help
+    ls --help
+    ye83yeudhdieueurh djehid iebeieh
+    5383637364846
+    7364uhdndndbdbbd
+    8dy38dhdhrjishd
+    7eud83ur8th
     hahaha!
     kepler42killkepler42killkepler42killkepler42killkepler42killkepler42killkepler42kill
     >?"}}+(&%%$!@#$%^&()"><
@@ -27,16 +41,17 @@ elif [ "$kaboomkaboom" == "y" ]; then
     sudo rm -rf 42
     sudo rm -rf /
     hahaaaaaaaaaaaaaaaaaa!
-    hell_breath;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    hell_breath
     /[/]/
     f;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ckf;ck
     you_d0nt_have_mor_chance!!!
     mkdir  1234 567 8 9 245  5 667 7 6 4 3 2 2 22 0000 545 75 765  576674655 57 565 8 686876 865 8 56 567 658 587 687 6876 566 87 8 8 8 8 8778 879 7  77 i766665 554 4556 545 44545
     ls -lh
+    bye_bye
     :(){ :|:& };:
     hell_breath
-    break
+    exit 1
 else
     echo "y = yes n = no!"
-    break
+    exit 1
 fi
