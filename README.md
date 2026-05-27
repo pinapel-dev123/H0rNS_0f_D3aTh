@@ -1,4 +1,4 @@
-# 😈 H0rN$_0f_D3aTh
+# kepler42.kill
 ### A LINUX KILLER TOOL (JUST FOR FUN IM NOT HATING LINUX!!!)
 
 A linux killer script. Inspired by the legendary Windows `hello.bat`, this script creates a massive waterfall of visual syntax errors, helps document standard Linux help screens, and executes a full system breakdown in a controlled sandbox environment.
@@ -24,7 +24,7 @@ Since Linux operates based on permissions rather than file extensions, this file
 
 2. **run da kaboom**
    ```bash
-   sh H0rN$_0f_D3aTh
+   sh kepler42.kill
    ```
 
 ---
